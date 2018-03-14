@@ -34,7 +34,7 @@ The website will be live at "https://[yourusername].github.io"
 
 ## Contributing
 
-Made with ❤ by [Vatsal Mistry.](https://mistryvatsal.github.io)
+Made with ❤ by [Mufaddal Vanwala.](https://github.com/muffvan)
 
 
 
